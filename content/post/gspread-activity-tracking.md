@@ -10,7 +10,7 @@ I've been tracking my efforts using Google Sheets, and wanted to be able to get 
 
 Here is the result!
 
-![Job Search Image](/static/img/2019-04-26-report.png)
+![Job Search Image](img/2019-04-26-report.png)
 
 If you would like to set up something similar for yourself, _read on._
 
@@ -105,7 +105,7 @@ def get_weekly_counts(df, target, dates="Date"):
 
 The returned `counts` DataFrame ends up looking like this:
 
-![Counts Example](/static/img/counts-example.PNG)
+![Counts Example](img/counts-example.PNG)
 
 ## Making the Plot
 
@@ -146,7 +146,7 @@ df = get_activity(gc, activity_sheet)
 counts = get_weekly_counts(df, "Action")
 plot_report(counts)
 ```
-![Job Search Image](/static/img/2019-04-26-report.png)
+![Job Search Image](img/2019-04-26-report.png)
 
 ## Celebration Time
 
