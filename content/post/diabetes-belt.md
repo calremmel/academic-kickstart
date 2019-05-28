@@ -1,6 +1,7 @@
 ---
 title: "Project Write-Up: Predicting the Diabetes Belt"
 date: 2019-02-15
+lastmod: 2019-02-15
 draft: false
 ---
 

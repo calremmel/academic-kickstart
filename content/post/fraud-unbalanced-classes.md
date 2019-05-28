@@ -1,16 +1,13 @@
 ---
 title: "Fraud Detection in Python: Imbalanced Classes"
 date: 2019-04-20
+lastmod: 2019-04-20
 draft: false
 ---
 
 ![png](/img/pca_fraud_title.png)
 
 Fraud detection is an important area of business where machine learning techniques have a particularly powerful use case. While fraud detection as a discipline predates the widespread popularity of machine learning, traditional techniques rely primarily on rules of thumb for flagging potentially fraudulent behavior. These rules can yield impressive results, but they cannot deal with interactions between different variables or improve over time the way a machine learning model can.
-
-This is part one in a multi-part deep dive into the latest and greatest in fraud detection techniques using machine learning in the Python programming language. I'll be going through the very latest methods for predicting rare events like fraud, starting from the basics and proceeding through the cutting edge.
-
-This series will be a set of living documents, and I will be updating them as much as I can as new ideas arise and as I learn more myself! Updates will be logged at the bottom of the page, so check there to see if there is anything new.
 
 # Visualizing Fraud
 

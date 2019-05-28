@@ -1,6 +1,7 @@
 ---
 title: "Heatmap Color Labels in Seaborn"
 date: 2019-04-05
+lastmod: 2019-04-05
 draft: false
 ---
 

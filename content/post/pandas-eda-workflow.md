@@ -1,6 +1,7 @@
 ---
 title: "Human Readable EDA in Python"
 date: 2019-05-24
+lastmod: 2019-05-24
 draft: false
 ---
 

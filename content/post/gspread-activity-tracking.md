@@ -1,6 +1,7 @@
 ---
 title: "Automatic activity tracking with Google Sheets, PeriodIndex, and matplotlib"
 date: 2019-04-01
+lastmod: 2019-04-01
 draft: false
 ---
 
