@@ -21,7 +21,7 @@ organizations:
 bio: A Data Scientist living in the woods in New Hampshire. Interested in reproducable research, model interpretability, and positive social impact.
 
 interests:
-- Reproducable Research
+- Reproducible Research
 - Model Interpretability
 - Positive Social Impact
 
